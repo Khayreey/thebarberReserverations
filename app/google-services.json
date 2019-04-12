@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360888077015",
+    "firebase_url": "https://baber-boy.firebaseio.com",
+    "project_id": "baber-boy",
+    "storage_bucket": "baber-boy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360888077015:android:f7d0641aaee6fd30",
+        "android_client_info": {
+          "package_name": "khayreey.khayreey.thebarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360888077015-m5rmvfepkkhkr2dssgcgd8ghcdmr9opa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBikKRs3BY3IaVFCm2NKVNvF3JOsQEtYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".emailVer">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/barber2"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="A Verification email has been sent to your Email .                                              check your inbox........"
+        android:layout_marginBottom="50dp"
+        android:textColor="#fff"
+        android:padding="20sp"
+        android:textStyle="bold"
+        />
+<Button
+    android:id="@+id/done_btn"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColor="@color/colorPrimaryDark"
+    android:text="DONE!"
+    android:background="@drawable/sign_up"
+    android:layout_marginRight="80dp"
+    android:layout_marginLeft="80dp"
+
+    />
+
+</LinearLayout>
+</RelativeLayout>
